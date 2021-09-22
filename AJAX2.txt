@@ -1,0 +1,6 @@
+Exercice AJAX n°2 : le Garage
+ v2.0
+- Même base que l'exercice précédent (formulaire et base de données)
+- Les données sont toujours inscrites dans la base de donnée via une méthode Ajax.
+- Afficher sur la même page le tableau à jour des véhicules présents dans la BDD.
+- Le tableau est affiché à l'aide d'une méthode Ajax aussi bien à l'ouverture initiale de la page que lors de l'ajout d'un véhicule.
